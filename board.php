@@ -9,6 +9,7 @@
  * @version 1.0.0
  * @author Jatin Matah @ https://jatin.dev
  * @license GPL
+ * @demo http://www.m-solutions.co.in/chess/
  * 
  * @template Board.php.
  */

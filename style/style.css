@@ -1,0 +1,25 @@
+body { margin:0; padding:0; background:#ddd;}
+#page{ margin:0 auto; padding:0 20px 10px; width:900px; background:#fff;}
+#header { margin:0; padding:5px 15px; border-bottom:2px solid #000;}
+#header #logo { color: #900; font:bold 32px/1.5 Verdana;}
+#header #tagline { padding:0 0 0 20px; font:normal 18px/1.2 Arial; }
+#container {margin:10px auto;}
+#chessboard{ margin:0; padding:0; border:10px double #000; }
+#chessboard tr td { margin:0; padding:0px; width:55px; height:55px; bordr:1px single #fff; }
+#plann {margin:0px; padding:10px; width:180px; height:400px; overflow-x:auto; text-transform:capitalize;}
+#logg {margin:0px; padding:10px; width:130px; height:400px;overflow-x:auto }
+.tdheading{ margin:0; padding:10px 20px; text-align:center; text-decoration: underline; font: bold 16px/2.5 Arial;}
+#proj_desc #head{ margin:5px 10px 0; padding:0; float:left; color:#000; font:bold 16px/1.5 Arial;}
+#proj_desc #desc{ margin:5px 10px 0; padding:0; float:left; font:normal 12px/1.3 Arial; width:65%;}
+.clear{clear:both}
+.poss { background: #ff2323; }
+#axisX tr td {margin:0; padding:0; text-align:center; width:55px; height:10px; border:1px single #fff;  text-transform:capitalize;}
+#axisY tr td {margin:0; padding:0; text-align:center; width:10px; height:55px; border:1px single #fff;  text-transform:capitalize;}
+#start{ margin:0 15px; width:170px;}
+.colblack{background-color:#000!important;}
+.colwhite{background-color:#dfdfdf!important;}
+.prob{ background-color:#ff2323 !important;}
+.prob.coldone{ background-color:#ff9999 !important;}
+.coldone{ background-image: url("done.gif")!important; background-repeat:no-repeat; background-position:center;}
+.curpos{ background: #ffffff url("horse.gif") no-repeat right top!important;}
+#content pre{margin:0; padding:10px; overflow-x:auto; height:600px; width:100%;}
